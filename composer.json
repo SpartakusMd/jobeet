@@ -1,6 +1,4 @@
 {
-    "name": "jobeet",
-    "description": "A symfony tutorial",
     "type": "project",
     "license": "proprietary",
     "require": {
